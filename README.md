@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is designed to help you explore and visualize stock market trends in an interactive and engaging way. 
+This project is designed to explore and visualize stock market trends in an interactive and engaging way. 
 
 The notebook, `Stock Visualization.ipynb`, walks you through retrieving stock data, processing it, and visualizing trends using Python's popular data science libraries.
 
