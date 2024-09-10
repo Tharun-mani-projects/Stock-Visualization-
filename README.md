@@ -3,7 +3,7 @@
 
 ## Overview
 
-Welcome to the Stock Visualization Project! This project is designed to help you explore and visualize stock market trends in an interactive and engaging way. Whether you're a data science enthusiast, a financial analyst, or someone who's just curious about stocks, this project will guide you through the process of analyzing stock data and creating insightful visualizations.
+This project is designed to help you explore and visualize stock market trends in an interactive and engaging way. 
 
 The notebook, `Stock Visualization.ipynb`, walks you through retrieving stock data, processing it, and visualizing trends using Python's popular data science libraries.
 
